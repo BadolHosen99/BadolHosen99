@@ -4,7 +4,7 @@
 ### Hi there 👋, i'm Badol Hosen
 #### A passionate frontend developer from Bangladesh
 
-Hey! i'm a professional frontend developer. i have more than 2 years of professional experience in web development and have worked on some websites. I always focus on gorgeous designs and i have expertise on the following criterias:
+Hey! i'm a professional frontend developer. i have more than 3 years of professional experience in web development and have worked on some websites. I always focus on gorgeous designs and i have expertise on the following criterias:
  Html5, Css3, Bootstrap, Responsive web design, Javascript, Jquery, react js.
 
 Skills: REACT / JS / HTML / CSS/ Bootstrap 5
